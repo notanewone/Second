@@ -1,6 +1,6 @@
 <html>
 	<head>
 		<meta/>
-		<title></title>
+		<title>mainly</title>
 	</head>
 <html>
