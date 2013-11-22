@@ -1,3 +1,5 @@
 <html>
-	<head></head>
+	<head>
+		<meta/>
+	</head>
 <html>
